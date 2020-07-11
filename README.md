@@ -31,4 +31,5 @@
   + **Chưa biết gì đến biết dùng**
 
 #### Contributions
-+ Dat Nguyen (System Engineer Remote from System Harvey NashTech Team)
++ Dat Nguyen Van (System Engineer Remote from Harvey NashTech System Team)
++ Hoang Nguyen Van (System Engineer from Harvey NashTech System Team)
